@@ -1,0 +1,23 @@
+###############################################
+# File di configurazione per esercizio Python #
+###############################################
+#
+# Moduli da importare, separati da virgola oppure "NoHelperModules"
+NoHelperModules
+# Nome del file realizzato dallo studente 
+Es4.py
+# Metodo da eseguire
+massimo
+# Operatore del docente da usare per il confronto (== per il confronto nativo Python)
+==
+# Stringhe da fornire come argomenti del metodo
+# => non dimenticare di racchiuderli tra parentesi ()
+(BuildTree.costruisci_albero("file1.txt", "n_sx,dx"))-->0
+(BuildTree.costruisci_albero("file2.txt", "n_sx,dx"))-->2
+(BuildTree.costruisci_albero("file3.txt", "n_sx,dx"))-->5
+(BuildTree.costruisci_albero("file4.txt", "n_sx,dx"))-->7
+(BuildTree.costruisci_albero("file5.txt", "n_sx,dx"))-->9
+(BuildTree.costruisci_albero("file6.txt", "n_sx,dx"))-->12
+(BuildTree.costruisci_albero("file7.txt", "n_sx,dx"))-->12
+(BuildTree.costruisci_albero("file8.txt", "n_sx,dx"))-->51
+
